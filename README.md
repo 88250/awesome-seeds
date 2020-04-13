@@ -103,7 +103,6 @@
 * [latke](https://github.com/88250/latke) 一款以 JSON 为主的 Java Web 框架
 * [fastdep](https://github.com/louislivi/fastdep) 一个快速集成依赖的框架，集成了一些常用公共的依赖。例：多数据源，Redis，JWT
 * [mPaaS](https://github.com/lihangqi/mPaaS) 基于SpringBoot2.x、SpringCloud并采用前后端分离的企业级微服务,多租户系统架构微服务开发平台
-* [cicada](https://github.com/TogetherOS/cicada) 基于 Netty4 实现的快速、轻量级 WEB 框架；没有过多的依赖，核心 jar 包仅 30KB。
 
 ## Python
 
