@@ -2,19 +2,10 @@
 
 本仓库旨在：
 
-* 帮助大家发现新鲜有趣的开源项目
-* 帮助开发者推广新项目 
+* 帮助大家发现**新鲜有趣**的*小型*开源项目
+* 帮助开发者推广自己初创的开源项目 
 
-欢迎大家前来来投稿！
-
-## 🎨 如何投稿
-
-可通过[创建 issue](https://github.com/88250/awesome-seeds/issues/new/choose) 或者发起 Pull Request 来进行投稿。
-
-投稿标准：
-
-1. 项目已在 GitHub 上开源
-2. 项目星数区间为 [10, 500]
+请参考[贡献指南](https://github.com/88250/awesome-seeds/tree/master/.github/CONTRIBUTING.md)进行操作，欢迎大家前来来投稿！
 
 ---
 
