@@ -5,7 +5,7 @@
 * 帮助大家发现**新鲜有趣**的*小型*开源项目
 * 帮助开发者推广自己初创的开源项目 
 
-请参考[贡献指南](https://github.com/88250/awesome-seeds/tree/master/.github/CONTRIBUTING.md)进行操作，欢迎大家前来来投稿！
+欢迎大家参考[贡献指南](https://github.com/88250/awesome-seeds/tree/master/.github/CONTRIBUTING.md)前来投稿！
 
 ---
 
