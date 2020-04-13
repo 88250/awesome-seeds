@@ -42,7 +42,7 @@
 
 ## 爬虫
 
-* [Goribot](https://github.com/zhshch2002/goribot) 🕷一只轻量的分布式友好的 Golang 爬虫框架。
+* [Goribot](https://github.com/zhshch2002/goribot) 一只轻量的分布式友好的 Golang 爬虫框架
 * [zhihuzhuanlan2pdf](https://github.com/shimachao/zhihuzhuanlan2pdf) 爬取知乎专栏并保存为pdf文档
 * [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python 
 * [bilibili_member_crawler](https://github.com/cwjokaka/bilibili_member_crawler) B站用户爬虫 好耶~是爬虫
@@ -111,6 +111,7 @@
 * [wide](https://github.com/88250/wide) 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang
 * [routinepanic.com](https://github.com/88250/routinepanic.com) 协慌网 - 专注编程问答汉化
 * [gormat](https://github.com/airplayx/gormat) golang便捷转换器，支持数据库直转Struct、Sql转Struct、Json转Struct
+* [MareWood](https://github.com/xusenlin/MareWood) 一个Go开发的轻量级前端部署工具(类似针对前端的 Jenkins ),可以很灵活的配置各种打包部署环境并提供访问
 
 ## CSS
 
