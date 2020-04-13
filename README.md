@@ -46,6 +46,7 @@
 * [lute](https://github.com/88250/lute) 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript
 * [lute-pdf](https://github.com/88250/lute-pdf) 一款将 Markdown 文本转换为 PDF 的小工具
 * [lute-http](https://github.com/88250/lute-http) 包装 Lute 引擎以 HTTP 服务发布
+* [vditor](https://github.com/vanessa219/vditor) 一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式
 
 ## 爬虫
 
