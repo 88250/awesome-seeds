@@ -9,7 +9,7 @@
 
 ## 🎨 如何投稿
 
-可通过[创建 issue](https://github.com/88250/awesome-seeds/issues/new) 或者发起 Pull Request 来进行投稿。
+可通过[创建 issue](https://github.com/88250/awesome-seeds/issues/new/choose) 或者发起 Pull Request 来进行投稿。
 
 投稿标准：
 
