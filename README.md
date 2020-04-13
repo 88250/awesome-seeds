@@ -124,6 +124,7 @@
 
 ## 待分类
 
+* [DouYu-SDK](https://github.com/yyc-dev/douyu-sdk) 一个基于斗鱼弹幕API(v1.4.1)封装的SDK，上班也可以边听直播边监看直播间的弹幕辣！
 * [tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) telegram关键词回复机器人，群主助手
 * [v-checkin](https://github.com/sy-records/v-checkin) 腾讯视频好莱坞会员V力值签到，支持两次签到：一次正常签到，一次手机签到
 * [Mibook-air](https://github.com/ourfor/Mibook-air) 让你的小米笔记本吃上苹果
