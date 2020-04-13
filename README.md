@@ -98,6 +98,7 @@
 * [latke](https://github.com/88250/latke) 一款以 JSON 为主的 Java Web 框架
 * [fastdep](https://github.com/louislivi/fastdep) 一个快速集成依赖的框架，集成了一些常用公共的依赖。例：多数据源，Redis，JWT
 * [mPaaS](https://github.com/lihangqi/mPaaS) 基于SpringBoot2.x、SpringCloud并采用前后端分离的企业级微服务,多租户系统架构微服务开发平台
+* [Mind-Map](https://github.com/huoji555/Mind-Map) 基于思维导图的可视化学习系统，基于SpringBoot+Redis构建，前端使用AngularJS实现
 
 ## Python
 
