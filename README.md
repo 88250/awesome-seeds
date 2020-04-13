@@ -100,7 +100,7 @@
 * [symphony](https://github.com/88250/symphony) 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
 * [latke](https://github.com/88250/latke) 一款以 JSON 为主的 Java Web 框架
 * [fastdep](https://github.com/louislivi/fastdep) 一个快速集成依赖的框架，集成了一些常用公共的依赖。例：多数据源，Redis，JWT
-* [mPaaS](https://github.com/lihangqi/mPaaS) Multi-tenant system architecture microservice development platform mPaaS (Microservice PaaS) based on SpringBoot2.x, SpringCloud, and front-end separation.
+* [mPaaS](https://github.com/lihangqi/mPaaS) 基于SpringBoot2.x、SpringCloud并采用前后端分离的企业级微服务,多租户系统架构微服务开发平台
 
 ## Python
 
