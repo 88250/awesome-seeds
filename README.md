@@ -42,6 +42,7 @@
 
 ## 爬虫
 
+* [Goribot](https://github.com/zhshch2002/goribot) 🕷一只轻量的分布式友好的 Golang 爬虫框架。
 * [zhihuzhuanlan2pdf](https://github.com/shimachao/zhihuzhuanlan2pdf) 爬取知乎专栏并保存为pdf文档
 * [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python 
 * [bilibili_member_crawler](https://github.com/cwjokaka/bilibili_member_crawler) B站用户爬虫 好耶~是爬虫
