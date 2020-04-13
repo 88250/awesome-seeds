@@ -25,6 +25,7 @@
 * [RxBus](https://github.com/xuexiangjys/RxBus) 一个简易的Android事件通知库，使用RxJava和Javassist设计，拒绝使用反射，保证性能高效稳定
 * [XLog](https://github.com/xuexiangjys/XLog) 一个简易的日志打印框架（支持打印策略自定义，默认提供2种策略：logcat打印和磁盘打印）
 * [lostad-android](https://github.com/ssuhvs/lostad-android) android项目 二次开发框架
+* [YbConsole](https://github.com/iwh718/YbConsole) 易班开发者安卓客户端，查看轻应用，修改
 
 ## 编解码
 
@@ -45,6 +46,8 @@
 * [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python 
 * [bilibili_member_crawler](https://github.com/cwjokaka/bilibili_member_crawler) B站用户爬虫 好耶~是爬虫
 * [speech_spiders](https://github.com/sy-records/speech_spiders) 一只超级污的司机蜘蛛
+* [fengcheLite](https://github.com/iwh718/fengcheLite)	风车动漫第三方安卓端
+* [InvoiceSpider](https://github.com/BB-fat/InvoiceSpider) 国家税务总局增值税发票查验平台｜自动化发票查验
 
 ## 算法
 
@@ -122,16 +125,25 @@
 
 * [rc-bullets](https://github.com/zerosoul/rc-bullets) 基于CSS3 Animation，使用React构建的弹幕组件
 
-## 待分类
+## 视频
 
 * [DouYu-SDK](https://github.com/yyc-dev/douyu-sdk) 一个基于斗鱼弹幕API(v1.4.1)封装的SDK，上班也可以边听直播边监看直播间的弹幕辣！
-* [tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) telegram关键词回复机器人，群主助手
 * [v-checkin](https://github.com/sy-records/v-checkin) 腾讯视频好莱坞会员V力值签到，支持两次签到：一次正常签到，一次手机签到
-* [Mibook-air](https://github.com/ourfor/Mibook-air) 让你的小米笔记本吃上苹果
-* [MI6_Optimization](https://github.com/ourfor/MI6_Optimization) MI6调教指南
-* [fengcheLite](https://github.com/iwh718/fengcheLite)	风车动漫第三方安卓端
-* [YbConsole](https://github.com/iwh718/YbConsole) 易班开发者安卓客户端，查看轻应用，修改
+
+## Windows
+
 * [Kill-Shift-Space](https://github.com/Svtter/Kill-Shift-Space) win10 不能屏蔽掉shift-space，遂开发此程序
-* [InvoiceSpider](https://github.com/BB-fat/InvoiceSpider) 国家税务总局增值税发票查验平台｜自动化发票查验
+
+## 笔记本
+
+* [Mibook-air](https://github.com/ourfor/Mibook-air) 让你的小米笔记本吃上苹果
+
+## 手机
+
+* [MI6_Optimization](https://github.com/ourfor/MI6_Optimization) MI6调教指南
+
+## 待分类
+
+* [tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) telegram关键词回复机器人，群主助手
 * [honeyed-words-generator](https://github.com/zerosoul/honeyed-words-generator) 在线生成土味情话
 * [chinese-word-chaos](https://github.com/zerosoul/chinese-word-chaos) 科学究研明表，汉字序顺并不一定影阅响读
