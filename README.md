@@ -27,7 +27,7 @@
 
 ## Android
 
-* [XPush](https://github.com/xuexiangjys/XPush) 一个轻量级、可插拔的Android消息推送框架。一键集成推送（极光推送、友盟推送、信鸽推送、华为、小米推送等），提供有效的保活机制，支持推送的拓展，充分解耦推送和业务逻辑，解放你的双手！
+* [XPush](https://github.com/xuexiangjys/XPush) 一个轻量级、可插拔的Android消息推送框架
 * [XAOP](https://github.com/xuexiangjys/XAOP) 一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用
 * [TemplateAppProject](https://github.com/xuexiangjys/TemplateAppProject) Android空壳模版工程，快速搭建（集成了XUI、XUtil、XAOP、XPage、XUpdate、XHttp2、友盟统计和walle多渠道打包)
 * [XUtil](https://github.com/xuexiangjys/XUtil) 一个方便实用的Android工具类库
@@ -50,7 +50,7 @@
 ## 爬虫
 
 * [zhihuzhuanlan2pdf](https://github.com/shimachao/zhihuzhuanlan2pdf) 爬取知乎专栏并保存为pdf文档
-* [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python?一个还ok的IP代理池,先做给自己用着~ 
+* [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python 
 * [bilibili_member_crawler](https://github.com/cwjokaka/bilibili_member_crawler) B站用户爬虫 好耶~是爬虫
 * [speech_spiders](https://github.com/sy-records/speech_spiders) 一只超级污的司机蜘蛛
 
@@ -65,7 +65,7 @@
 
 ## 游戏
 
-* [game-ddz](https://github.com/sy-records/game-ddz） 基于Hyperf框架开发斗地主游戏
+* [game-ddz](https://github.com/sy-records/game-ddz) 基于Hyperf框架开发斗地主游戏
 
 ## PHP
 
@@ -122,18 +122,18 @@
 
 * [uix-kit](https://github.com/xizon/uix-kit) A free UI toolkit based on some common libraries for building beautiful responsive website, compatible with Bootstrap v4
 * [Uix-Page-Builder](https://github.com/xizon/Uix-Page-Builder)	Uix Page Builder is a design system that it is simple content creation interface
-* [LayuiExtend]https://github.com/iTanken/LayuiExtend) LayUI 扩展组件
+* [LayuiExtend](https://github.com/iTanken/LayuiExtend) LayUI 扩展组件
 
 ## React
 
-* [rc-bullets]https://github.com/zerosoul/rc-bullets) 基于CSS3 Animation，使用React构建的弹幕组件
+* [rc-bullets](https://github.com/zerosoul/rc-bullets) 基于CSS3 Animation，使用React构建的弹幕组件
 
 ## 其他
 
-* [tg-keyword-reply-bot telegram](https://github.com/zu1k/tg-keyword-reply-bot telegram) 关键词回复机器人，群主助手
+* [tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) telegram关键词回复机器人，群主助手
 * [v-checkin](https://github.com/sy-records/v-checkin) 腾讯视频好莱坞会员V力值签到，支持两次签到：一次正常签到，一次手机签到
-* [Mibook-air](https://github.com/ourfor/Mibook-air） 让你的小米笔记本吃上苹果
-* [MI6_Optimization]https://github.com/ourfor/MI6_Optimization) MI6调教指南
+* [Mibook-air](https://github.com/ourfor/Mibook-air) 让你的小米笔记本吃上苹果
+* [MI6_Optimization](https://github.com/ourfor/MI6_Optimization) MI6调教指南
 * [fengcheLite](https://github.com/iwh718/fengcheLite)	风车动漫第三方安卓端
 * [YbConsole](https://github.com/iwh718/YbConsole) 易班开发者安卓客户端，查看轻应用，修改
 * [Kill-Shift-Space](https://github.com/Svtter/Kill-Shift-Space) win10 不能屏蔽掉shift-space，遂开发此程序
