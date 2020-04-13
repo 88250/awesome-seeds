@@ -20,32 +20,32 @@
 
 ## 网络
 
-* https://github.com/xuexiangjys/XTCP 一个便捷的TCP消息包拼装和解析框架
-* https://github.com/xuexiangjys/XHttp2 一个功能强悍的网络请求库，使用RxJava2 + Retrofit2 + OKHttp组合进行封装。
-* https://github.com/mili-tan/AuroraDNS.GUI 纯净抗污染，简单轻量级
-* https://github.com/iceuncle/HttpFrame	基于Retroft+Rxjava的网络框架封装
+* [XTCP](https://github.com/xuexiangjys/XTCP) 一个便捷的TCP消息包拼装和解析框架
+* [XHttp2](https://github.com/xuexiangjys/XHttp2) 一个功能强悍的网络请求库，使用RxJava2 + Retrofit2 + OKHttp组合进行封装
+* [AuroraDNS.GUI](https://github.com/mili-tan/AuroraDNS.GUI) 纯净抗污染，简单轻量级
+* [HttpFrame](https://github.com/iceuncle/HttpFrame) 基于Retroft+Rxjava的网络框架封装
 
 ## Android
 
-* https://github.com/xuexiangjys/XPush 一个轻量级、可插拔的Android消息推送框架。一键集成推送（极光推送、友盟推送、信鸽推送、华为、小米推送等），提供有效的保活机制，支持推送的拓展，充分解耦推送和业务逻辑，解放你的双手！
-* https://github.com/xuexiangjys/XAOP 一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用。
-* https://github.com/xuexiangjys/TemplateAppProject Android空壳模版工程，快速搭建（集成了XUI、XUtil、XAOP、XPage、XUpdate、XHttp2、友盟统计和walle多渠道打包)
-* https://github.com/xuexiangjys/XUtil 一个方便实用的Android工具类库
-* https://github.com/xuexiangjys/RxBus 一个简易的Android事件通知库，使用RxJava和Javassist设计，拒绝使用反射，保证性能高效稳定。
-* https://github.com/xuexiangjys/XLog 一个简易的日志打印框架（支持打印策略自定义，默认提供2种策略：logcat打印和磁盘打印）
-* https://github.com/ssuhvs/lostad-android android项目 二次开发框架------------最优秀android开发框架的整合,下载下来直接进行二次开发. 1、集成了大部分app开发的必要组件， 2、修复了一些第三方组件的bug,并进行了扩展。3、现成的工具类，提示窗口工具类，主界面、登陆、注册界面和交互流程。 4、良好的架构设计。
+* [XPush](https://github.com/xuexiangjys/XPush) 一个轻量级、可插拔的Android消息推送框架。一键集成推送（极光推送、友盟推送、信鸽推送、华为、小米推送等），提供有效的保活机制，支持推送的拓展，充分解耦推送和业务逻辑，解放你的双手！
+* [XAOP](https://github.com/xuexiangjys/XAOP) 一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用
+* [TemplateAppProject](https://github.com/xuexiangjys/TemplateAppProject) Android空壳模版工程，快速搭建（集成了XUI、XUtil、XAOP、XPage、XUpdate、XHttp2、友盟统计和walle多渠道打包)
+* [XUtil](https://github.com/xuexiangjys/XUtil) 一个方便实用的Android工具类库
+* [RxBus](https://github.com/xuexiangjys/RxBus) 一个简易的Android事件通知库，使用RxJava和Javassist设计，拒绝使用反射，保证性能高效稳定
+* [XLog](https://github.com/xuexiangjys/XLog) 一个简易的日志打印框架（支持打印策略自定义，默认提供2种策略：logcat打印和磁盘打印）
+* [lostad-android](https://github.com/ssuhvs/lostad-android) android项目 二次开发框架
 
 ## 编解码
 
-* https://github.com/xuexiangjys/XQRCode 一个非常方便实用的二维码扫描、解析、生成库
-* https://github.com/zerosoul/image-compress-without-backend Pure frontend solution to compress images
+* [XQRCode](https://github.com/xuexiangjys/XQRCode) 一个非常方便实用的二维码扫描、解析、生成库
+* [image-compress-without-backend](https://github.com/zerosoul/image-compress-without-backend) Pure frontend solution to compress images
 
 ## Markdown 
 
-* https://github.com/88250/liandi A desktop Markdown note-taking application, supports Windows, Mac and Linux. 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux。
-* https://github.com/88250/lute A structured Markdown engine that supports Go and JavaScript. 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript。
-* https://github.com/88250/lute-pdf 一款将 Markdown 文本转换为 PDF 的小工具。
-* https://github.com/88250/lute-http 包装 Lute 引擎以 HTTP 服务发布。
+* https://github.com/88250/liandi 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux
+* https://github.com/88250/lute 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript
+* https://github.com/88250/lute-pdf 一款将 Markdown 文本转换为 PDF 的小工具
+* https://github.com/88250/lute-http 包装 Lute 引擎以 HTTP 服务发布
 
 ## 爬虫
 
@@ -97,22 +97,22 @@
 
 * https://github.com/TAKETODAY/today-web A Java library for building web applications
 * https://github.com/TAKETODAY/today-context A Java library for dependency injection and aspect oriented programing
-* https://github.com/88250/symphony 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。
-* https://github.com/88250/latke A Java Web framework based on JSON. 一款以 JSON 为主的 Java Web 框架。
-* https://github.com/louislivi/fastdep Fast integration dependencies in spring boot.是一个快速集成依赖的框架，集成了一些常用公共的依赖。例：多数据源，Redis，JWT...
+* https://github.com/88250/symphony 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台
+* https://github.com/88250/latke A Java Web framework based on JSON. 一款以 JSON 为主的 Java Web 框架
+* https://github.com/louislivi/fastdep Fast integration dependencies in spring boot.是一个快速集成依赖的框架，集成了一些常用公共的依赖。例：多数据源，Redis，JWT
 * https://github.com/lihangqi/mPaaS Multi-tenant system architecture microservice development platform mPaaS (Microservice PaaS) based on SpringBoot2.x, SpringCloud, and front-end separation.
 
 ## Python
 
-* https://github.com/abersheeran/index.py	An easy-to-use asynchronous web framework based on ASGI.
+* https://github.com/abersheeran/index.py	An easy-to-use asynchronous web framework based on ASGI
 * https://github.com/opsonly/my_blog	基于django2.1的多人博客系统。
 
 ## Go
 
-* https://github.com/88250/pipe B3log 分布式社区的博客端节点，欢迎加入下一代社区网络。
-* https://github.com/88250/gulu Go 语言常用工具库，这个轱辘还算圆！
-* https://github.com/88250/wide 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang。
-* https://github.com/88250/routinepanic.com 协慌网 - 专注编程问答汉化。
+* https://github.com/88250/pipe B3log 分布式社区的博客端节点，欢迎加入下一代社区网络
+* https://github.com/88250/gulu Go 语言常用工具库，这个轱辘还算圆
+* https://github.com/88250/wide 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang
+* https://github.com/88250/routinepanic.com 协慌网 - 专注编程问答汉化
 
 ## CSS
 
@@ -120,9 +120,9 @@
 
 ## UI 库
 
-* https://github.com/xizon/uix-kit	A free UI toolkit based on some common libraries for building beautiful responsive website, compatible with Bootstrap v4.
-* https://github.com/xizon/Uix-Page-Builder	Uix Page Builder is a design system that it is simple content creation interface.
-* https://github.com/iTanken/LayuiExtend LayUI 扩展组件 by iTanken（子兮子兮）
+* https://github.com/xizon/uix-kit	A free UI toolkit based on some common libraries for building beautiful responsive website, compatible with Bootstrap v4
+* https://github.com/xizon/Uix-Page-Builder	Uix Page Builder is a design system that it is simple content creation interface
+* https://github.com/iTanken/LayuiExtend LayUI 扩展组件
 
 ## React
 
@@ -131,11 +131,11 @@
 ## 其他
 
 * https://github.com/zu1k/tg-keyword-reply-bot telegram 关键词回复机器人，群主助手
-* https://github.com/sy-records/v-checkin	腾讯视频好莱坞会员V力值签到，支持两次签到：一次正常签到，一次手机签到。
+* https://github.com/sy-records/v-checkin	腾讯视频好莱坞会员V力值签到，支持两次签到：一次正常签到，一次手机签到
 * https://github.com/ourfor/Mibook-air 让你的小米笔记本吃上苹果
 * https://github.com/ourfor/MI6_Optimization	MI6调教指南
 * https://github.com/iwh718/fengcheLite	风车动漫第三方安卓端
-* https://github.com/iwh718/YbConsole	易班开发者安卓客户端，查看轻应用，修改。
+* https://github.com/iwh718/YbConsole	易班开发者安卓客户端，查看轻应用，修改
 * https://github.com/Svtter/Kill-Shift-Space	win10 不能屏蔽掉shift-space，遂开发此程序
 * https://github.com/BB-fat/InvoiceSpider	国家税务总局增值税发票查验平台｜自动化发票查验
 * https://github.com/zerosoul/honeyed-words-generator	在线生成土味情话
