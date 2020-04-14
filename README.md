@@ -80,7 +80,8 @@
 ## GitHub
 
 * [github-star-stats](https://github.com/zerosoul/github-star-stats) awesome GitHub repo star statistics generator
-* [github-social-image-generator](https://github.com/zerosoul/github-social-image-generator) generate github social image online!
+* [github-social-image-generator](https://github.com/zerosoul/github-social-image-generator) generate github social image online
+* [iaas](https://github.com/maguowei/iaas) GitHub issue as a service
 
 ## 数据集
 
