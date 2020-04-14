@@ -67,6 +67,7 @@
 ## PHP
 
 * [learn-swoole](https://github.com/sy-records/learn-swoole) Swoole的学习之路
+* [Hyperf](https://github.com/hyperf/hyperf) 基于 Swoole 4.4+ 实现的高性能、高灵活性的 PHP 协程框架
 
 ## 面试和认证
  
