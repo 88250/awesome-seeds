@@ -82,6 +82,7 @@
 * [github-star-stats](https://github.com/zerosoul/github-star-stats) awesome GitHub repo star statistics generator
 * [github-social-image-generator](https://github.com/zerosoul/github-social-image-generator) generate github social image online
 * [iaas](https://github.com/maguowei/iaas) GitHub issue as a service
+* [gitee-pages-action](https://github.com/yanglbme/gitee-pages-action) 无须人为干预，自动部署 Gitee Pages
 
 ## 数据集
 
