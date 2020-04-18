@@ -9,6 +9,16 @@
 
 ---
 
+## Markdown 
+
+* [liandi](https://github.com/88250/liandi) 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux
+* [vditor](https://github.com/vanessa219/vditor) 一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式
+* [lute](https://github.com/88250/lute) 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript
+* [lute-pdf](https://github.com/88250/lute-pdf) 一款将 Markdown 文本转换为 PDF 的小工具
+* [lute-docx](https://github.com/88250/lute-docx) 一款将 Markdown 文本转换为 Word 文档 (.docx) 的小工具
+* [lute-http](https://github.com/88250/lute-http) 包装 Lute 引擎以 HTTP 服务发布
+* [tuture](https://github.com/tuture-dev/tuture) 一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具
+
 ## 网络
 
 * [XTCP](https://github.com/xuexiangjys/XTCP) 一个便捷的TCP消息包拼装和解析框架
@@ -31,15 +41,6 @@
 
 * [XQRCode](https://github.com/xuexiangjys/XQRCode) 一个非常方便实用的二维码扫描、解析、生成库
 * [image-compress-without-backend](https://github.com/zerosoul/image-compress-without-backend) Pure frontend solution to compress images
-
-## Markdown 
-
-* [liandi](https://github.com/88250/liandi) 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux
-* [lute](https://github.com/88250/lute) 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript
-* [lute-pdf](https://github.com/88250/lute-pdf) 一款将 Markdown 文本转换为 PDF 的小工具
-* [lute-http](https://github.com/88250/lute-http) 包装 Lute 引擎以 HTTP 服务发布
-* [vditor](https://github.com/vanessa219/vditor) 一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式
-* [tuture](https://github.com/tuture-dev/tuture) 一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具
 
 ## 爬虫
 
