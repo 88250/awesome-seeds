@@ -9,7 +9,7 @@
 
 ---
 
-## Markdown 
+## Markdown
 
 * [liandi](https://github.com/88250/liandi) 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux
 * [vditor](https://github.com/vanessa219/vditor) 一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式
@@ -116,9 +116,10 @@
 * [wide](https://github.com/88250/wide) 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang
 * [routinepanic.com](https://github.com/88250/routinepanic.com) 协慌网 - 专注编程问答汉化
 * [gormat](https://github.com/airplayx/gormat) golang便捷转换器，支持数据库直转Struct、Sql转Struct、Json转Struct
-* [MareWood](https://github.com/xusenlin/MareWood) 一个Go开发的轻量级前端部署工具(类似针对前端的 Jenkins ),可以很灵活的配置各种打包部署环境并提供访问
+* [MareWood](https://github.com/xusenlin/MareWood) 一个Go开发的轻量级前端部署工具(类似针对前端的Jenkins)，可以很灵活的配置各种打包部署环境并提供访问
 * [ForestBlog](https://github.com/xusenlin/ForestBlog) 基于 go 语言开发的，无第三方Go依赖的，用来展示 markdown 文档的精美博客
 * [kgo](https://github.com/kakuilan/kgo) golang helper/library/utils 常用函数库/工具集
+* [nging](https://github.com/admpub/nging) 漂亮的Go语言通用后台管理框架，包含计划任务、MySQL管理、Redis管理、FTP管理、SSH管理、服务器管理、Caddy配置、云存储管理等功能。
 
 ## CSS
 
