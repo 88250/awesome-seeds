@@ -93,6 +93,7 @@
 
 * [hscroll](https://github.com/hopechans/hscroll) 基于原生JS很简洁的自定义滚动条组件
 * [arya-jarvis](https://github.com/nicejade/arya-jarvis) 一款基于 node.js 的命令行工具，旨在为开发人员节省更多时间和精力
+* [pixelbox](https://github.com/cstoquer/pixelbox) 用于在HTML5和JavaScript中快速原型化基于图块的游戏的沙盒框架，小游戏，杠杠的
 
 ## Java
 
