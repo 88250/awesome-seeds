@@ -49,7 +49,6 @@
 
 ## 爬虫
 
-* [Gzip Middleware for Go](https://github.com/nanmu42/gzip) 一个适用于 Gin 和 net/http 的 gzip 中间件，可直接用也可定制参数和过滤器，gzip 压缩你的返回
 * [Goribot](https://github.com/zhshch2002/goribot) 一只轻量的分布式友好的 Golang 爬虫框架
 * [zhihuzhuanlan2pdf](https://github.com/shimachao/zhihuzhuanlan2pdf) 爬取知乎专栏并保存为pdf文档
 * [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python 
@@ -124,6 +123,7 @@
 
 ## Go
 
+* [Gzip Middleware for Go](https://github.com/nanmu42/gzip) 一个适用于 Gin 和 net/http 的 gzip 中间件，可直接用也可定制参数和过滤器，gzip 压缩你的返回
 * [pipe](https://github.com/88250/pipe) B3log 分布式社区的博客端节点，欢迎加入下一代社区网络
 * [gulu](https://github.com/88250/gulu) Go 语言常用工具库，这个轱辘还算圆
 * [wide](https://github.com/88250/wide) 一款基于 Web 的 Go 语言 IDE，随时随地玩 golang
