@@ -49,6 +49,7 @@
 
 ## 爬虫
 
+* [Gzip Middleware for Go](https://github.com/nanmu42/gzip) 一个适用于 Gin 和 net/http 的 gzip 中间件，可直接用也可定制参数和过滤器，gzip 压缩你的返回
 * [Goribot](https://github.com/zhshch2002/goribot) 一只轻量的分布式友好的 Golang 爬虫框架
 * [zhihuzhuanlan2pdf](https://github.com/shimachao/zhihuzhuanlan2pdf) 爬取知乎专栏并保存为pdf文档
 * [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python 
