@@ -137,6 +137,7 @@
 ## CSS
 
 * [easy-css-layout](https://github.com/ajycc20/easy-css-layout) Easy css layout
+* [separator-generator](https://github.com/wwebdev/separator-generator.git) A generator for section separators 
 
 ## UI 库
 
