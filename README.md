@@ -115,6 +115,7 @@
 * [Mind-Map](https://github.com/huoji555/Mind-Map) 基于思维导图的可视化学习系统，基于SpringBoot+Redis构建，前端使用AngularJS实现
 * [PingeBed](https://github.com/Programming-With-Love/PingeBed) 品格图床 真·本地图床 不需要配置数据库 直接保存文件在本地
 * [Picuang](https://github.com/adlered/Picuang) 本地存储图床，使用SpringBoot开发，RESTful前后端分离，面向用户的网络图床服务
+* [bolo-solo](https://github.com/adlered/bolo-solo) 专为程序员设计的Java博客系统 | 极简安装 | 基于Solo
 
 ## Python
 
