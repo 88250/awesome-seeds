@@ -17,6 +17,7 @@
 * [lute-docx](https://github.com/88250/lute-docx) 一款将 Markdown 文本转换为 Word 文档 (.docx) 的小工具
 * [lute-http](https://github.com/88250/lute-http) 包装 Lute 引擎以 HTTP 服务发布
 * [tuture](https://github.com/tuture-dev/tuture) 一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具
+* [1024.resume](https://github.com/1024-cool/1024.resume) 一款基于 Vue.js 开发的在线 Markdown 简历生成器
 
 ## 组织
 
