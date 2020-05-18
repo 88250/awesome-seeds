@@ -124,6 +124,7 @@
 
 ## Go
 
+* [Zendea](https://github.com/zendea/zendea) 一个使用Go语言开发的开源社区系统，采用前后端分离技术
 * [db-doc](https://github.com/viodo/db-doc) 一款生成在线数据库文档的小工具
 * [Gzip Middleware for Go](https://github.com/nanmu42/gzip) 一个适用于 Gin 和 net/http 的 gzip 中间件，可直接用也可定制参数和过滤器，gzip 压缩你的返回
 * [pipe](https://github.com/88250/pipe) B3log 分布式社区的博客端节点，欢迎加入下一代社区网络
