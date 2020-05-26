@@ -101,6 +101,7 @@
 
 ## NodeJS
 
+* [node-config](https://github.com/cuo9958/node-config) nodejs 开发的轻量级配置中心
 * [CabloyJS](https://github.com/zhennann/cabloy) 一款顶级NodeJS全栈业务开发框架, 基于KoaJS + EggJS + VueJS + Framework7
 * [arya-jarvis](https://github.com/nicejade/arya-jarvis) 一款基于 node.js 的命令行工具，旨在为开发人员节省更多时间和精力
 
