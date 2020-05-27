@@ -137,6 +137,7 @@
 * [ForestBlog](https://github.com/xusenlin/ForestBlog) 基于 go 语言开发的，无第三方Go依赖的，用来展示 markdown 文档的精美博客
 * [kgo](https://github.com/kakuilan/kgo) golang helper/library/utils 常用函数库/工具集
 * [nging](https://github.com/admpub/nging) 漂亮的Go语言通用后台管理框架，包含计划任务、MySQL管理、Redis管理、FTP管理、SSH管理、服务器管理、Caddy配置、云存储管理等功能。
+* [snake](https://github.com/1024casts/snake) 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
 
 ## CSS
 
