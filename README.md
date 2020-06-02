@@ -96,6 +96,7 @@
 
 ## JavaScript
 
+* [cnchar](https://www.theajack.com/cnchar) 好用小巧、功能全面的汉字拼音笔画 js 库
 * [hscroll](https://github.com/hopechans/hscroll) 基于原生JS很简洁的自定义滚动条组件
 * [pixelbox](https://github.com/cstoquer/pixelbox) 用于在HTML5和JavaScript中快速原型化基于图块的游戏的沙盒框架，小游戏，杠杠的
 
