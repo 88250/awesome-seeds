@@ -155,6 +155,10 @@
 
 * [rc-bullets](https://github.com/zerosoul/rc-bullets) 基于CSS3 Animation，使用React构建的弹幕组件
 
+## Vue.js
+
+* [MQTTX](https://github.com/emqx/MQTTX) MQTT X 是 EMQ 开源的一款跨平台 MQTT 5.0 客户端工具，它支持 macOS, Linux, Windows，并且支持 MQTT 消息格式转换。
+
 ## 视频
 
 * [dbys](https://github.com/Programming-With-Love/dbys) 淡白影视
