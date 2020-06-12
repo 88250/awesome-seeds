@@ -26,6 +26,7 @@
 
 ## 网络
 
+* [go-websocket](https://github.com/woodylan/go-websocket) 基于Golang实现的分布式WebSocket微服务，仅依赖Redis，简单易部署，支持高并发、单发、群发、广播，其它项目可以通过http与本项目通信
 * [XTCP](https://github.com/xuexiangjys/XTCP) 一个便捷的TCP消息包拼装和解析框架
 * [XHttp2](https://github.com/xuexiangjys/XHttp2) 一个功能强悍的网络请求库，使用RxJava2 + Retrofit2 + OKHttp组合进行封装
 * [AuroraDNS.GUI](https://github.com/mili-tan/AuroraDNS.GUI) 纯净抗污染，简单轻量级
@@ -35,7 +36,7 @@
 
 * [XPush](https://github.com/xuexiangjys/XPush) 一个轻量级、可插拔的Android消息推送框架
 * [XAOP](https://github.com/xuexiangjys/XAOP) 一个轻量级的AOP(Android)应用框架。囊括了最实用的AOP应用
-* [TemplateAppProject](https://github.com/xuexiangjys/TemplateAppProject) Android空壳模版工程，快速搭建（集成了XUI、XUtil、XAOP、XPage、XUpdate、XHttp2、友盟统计和walle多渠道打包)
+* [TemplateAppProject](https://github.com/xuexiangjys/TemplateAppProject) Android空壳模版工程，快速搭建（集成了XUI、XUtil、XAOP、XPage、XUpdate、XHttp2、友盟统计和walle多渠道打包）
 * [XUtil](https://github.com/xuexiangjys/XUtil) 一个方便实用的Android工具类库
 * [RxBus](https://github.com/xuexiangjys/RxBus) 一个简易的Android事件通知库，使用RxJava和Javassist设计，拒绝使用反射，保证性能高效稳定
 * [XLog](https://github.com/xuexiangjys/XLog) 一个简易的日志打印框架（支持打印策略自定义，默认提供2种策略：logcat打印和磁盘打印）
