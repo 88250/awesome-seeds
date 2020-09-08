@@ -11,7 +11,6 @@
 
 ## Markdown
 
-* [liandi](https://github.com/88250/liandi) 一款桌面端的 Markdown 笔记应用，支持 Windows、Mac 和 Linux
 * [lute](https://github.com/88250/lute) 一款对中文语境优化的 Markdown 引擎，支持 Go 和 JavaScript
 * [lute-pdf](https://github.com/88250/lute-pdf) 一款将 Markdown 文本转换为 PDF 的小工具
 * [lute-docx](https://github.com/88250/lute-docx) 一款将 Markdown 文本转换为 Word 文档 (.docx) 的小工具
