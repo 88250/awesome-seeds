@@ -20,6 +20,7 @@
 
 ## 组织
 
+* [思源笔记](https://github.com/siyuan-note) 源于思考，饮水思源
 * [用爱发电](https://github.com/Programming-With-Love/Programming-With-Love-Profile) 用爱发电 (Programming With Love) 是以开源精神为核心的GitHub组织
 * [LGBTQIA in China](https://github.com/scvoet/LGBTQIA-in-China) 中国的性少数群体一直渴望着自由平等
 
