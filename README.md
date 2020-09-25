@@ -92,6 +92,7 @@
 ## JavaScript
 
 * [hscroll](https://github.com/hopechans/hscroll) 基于原生JS很简洁的自定义滚动条组件
+* [always-helper](https://github.com/Rabbitzzc/always-helper) 前端项目开发中，经常会用到一些工具函数的合集
 * [arya-jarvis](https://github.com/nicejade/arya-jarvis) 一款基于 node.js 的命令行工具，旨在为开发人员节省更多时间和精力
 
 ## Java
