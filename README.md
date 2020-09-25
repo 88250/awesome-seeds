@@ -100,6 +100,7 @@
 * [wereader](https://github.com/liuhao326/wereader) 一个给微信读书做笔记的Chrome插件，可自定义导出标注、热门标注、个人想法、书评等，可以在阅读页中嵌入控件，方便一键复制图片或注释
 * [cnchar](https://www.theajack.com/cnchar) 好用小巧、功能全面的汉字拼音笔画 js 库
 * [hscroll](https://github.com/hopechans/hscroll) 基于原生JS很简洁的自定义滚动条组件
+* [always-helper](https://github.com/Rabbitzzc/always-helper) 前端项目开发中，经常会用到一些工具函数的合集
 * [pixelbox](https://github.com/cstoquer/pixelbox) 用于在HTML5和JavaScript中快速原型化基于图块的游戏的沙盒框架，小游戏，杠杠的
 
 ## NodeJS
