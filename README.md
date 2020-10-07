@@ -152,6 +152,7 @@
 
 * [easy-css-layout](https://github.com/ajycc20/easy-css-layout) Easy css layout
 * [separator-generator](https://github.com/wwebdev/separator-generator.git) A generator for section separators 
+* [loader](https://github.com/vineethtrv/loader) A collection of different types of CSS3 loaders, spinners
 
 ## UI 库
 
