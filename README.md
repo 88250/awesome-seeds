@@ -102,6 +102,7 @@
 * [hscroll](https://github.com/hopechans/hscroll) 基于原生JS很简洁的自定义滚动条组件
 * [always-helper](https://github.com/Rabbitzzc/always-helper) 前端项目开发中，经常会用到一些工具函数的合集
 * [pixelbox](https://github.com/cstoquer/pixelbox) 用于在HTML5和JavaScript中快速原型化基于图块的游戏的沙盒框架，小游戏，杠杠的
+* [any-touch](https://github.com/any86/any-touch) 👋 手势库, 按需2kb~5kb, 兼容PC / 移动端
 
 ## NodeJS
 
