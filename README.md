@@ -76,7 +76,7 @@
 * [learn-swoole](https://github.com/sy-records/learn-swoole) Swoole的学习之路
 
 ## 面试和认证
- 
+
 * [Software-Design-Engineer-Data](https://github.com/hqweay/Software-Design-Engineer-Data) 软件设计师（中级）备考资料（更新至 19 年下试题）
 * [dev-tester](https://github.com/GitDzreal93/dev-tester) 测试开发面试资源、复习资料汇总
 
@@ -131,6 +131,7 @@
 * [index.py](https://github.com/abersheeran/index.py) An easy-to-use asynchronous web framework based on ASGI
 * [my_blog](https://github.com/opsonly/my_blog) 基于django2.1的多人博客系统
 * [dtshare](https://github.com/DTShare/dtshare) DT时代的数据共享和应用，为用户提供优质便捷的数据
+* [running_page](https://github.com/yihong0618/running_page) 聚合 Keep、Nike Run Club、Strava、Garmin 等跑步数据，生成个人跑步主页
 
 
 ## Go
