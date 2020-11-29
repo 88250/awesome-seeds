@@ -192,6 +192,7 @@
 
 ## 待分类
 
+* [Motivational-Qutes](https://github.com/StepfenShawn/Motivational-Quotes) 一个鼓励程序员遇到 bug 不放弃的小网站
 * [git-emoji-zh](https://github.com/maixiaojie/git-emoji-zh) 在 VScode 中提交 git 的时候添加 emoji 表情
 * [tg-keyword-reply-bot](https://github.com/zu1k/tg-keyword-reply-bot) telegram关键词回复机器人，群主助手
 * [honeyed-words-generator](https://github.com/zerosoul/honeyed-words-generator) 在线生成土味情话
