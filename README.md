@@ -3,7 +3,7 @@
 本仓库旨在：
 
 * 帮助大家发现**新鲜有趣**的*小型*开源项目
-* 帮助开发者推广自己初创的开源项目 
+* 帮助开发者推广自己初创的开源项目
 
 欢迎大家参考[贡献指南](https://github.com/88250/awesome-seeds/tree/master/.github/CONTRIBUTING.md)前来投稿！
 
@@ -17,6 +17,7 @@
 * [lute-http](https://github.com/88250/lute-http) 包装 Lute 引擎以 HTTP 服务发布
 * [tuture](https://github.com/tuture-dev/tuture) 一款基于 Git 版本控制系统、为实战技术教程创作而生的写作工具
 * [1024.resume](https://github.com/1024-cool/1024.resume) 一款基于 Vue.js 开发的在线 Markdown 简历生成器
+* [mdfmt](https://github.com/elliotxx/mdfmt) 一款基于 Lute 的 Markdown 格式化命令行工具
 
 ## 组织
 
@@ -52,7 +53,7 @@
 
 * [Goribot](https://github.com/zhshch2002/goribot) 一只轻量的分布式友好的 Golang 爬虫框架
 * [zhihuzhuanlan2pdf](https://github.com/shimachao/zhihuzhuanlan2pdf) 爬取知乎专栏并保存为pdf文档
-* [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python 
+* [ok_ip_proxy_pool](https://github.com/cwjokaka/ok_ip_proxy_pool) 爬虫代理IP池(proxy pool) python
 * [bilibili_member_crawler](https://github.com/cwjokaka/bilibili_member_crawler) B站用户爬虫 好耶~是爬虫
 * [speech_spiders](https://github.com/sy-records/speech_spiders) 一只超级污的司机蜘蛛
 * [fengcheLite](https://github.com/iwh718/fengcheLite)	风车动漫第三方安卓端
@@ -133,7 +134,6 @@
 * [dtshare](https://github.com/DTShare/dtshare) DT时代的数据共享和应用，为用户提供优质便捷的数据
 * [running_page](https://github.com/yihong0618/running_page) 聚合 Keep、Nike Run Club、Strava、Garmin 等跑步数据，生成个人跑步主页
 
-
 ## Go
 
 * [Juggler](https://github.com/C4o/Juggler) 一个也许能骗到黑客的系统
@@ -154,7 +154,7 @@
 ## CSS
 
 * [easy-css-layout](https://github.com/ajycc20/easy-css-layout) Easy css layout
-* [separator-generator](https://github.com/wwebdev/separator-generator.git) A generator for section separators 
+* [separator-generator](https://github.com/wwebdev/separator-generator.git) A generator for section separators
 * [loader](https://github.com/vineethtrv/loader) A collection of different types of CSS3 loaders, spinners
 
 ## UI 库
