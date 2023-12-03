@@ -151,6 +151,10 @@
 * [nging](https://github.com/admpub/nging) 漂亮的Go语言通用后台管理框架，包含计划任务、MySQL管理、Redis管理、FTP管理、SSH管理、服务器管理、Caddy配置、云存储管理等功能。
 * [snake](https://github.com/1024casts/snake) 一款小巧的基于Go构建的API开发框架，可以快速进行业务开发，遵循SOLID设计原则
 
+## Rust
+
+* [KipSQL](https://github.com/KipData/KipSQL) 类似 SQLite 的轻量级的嵌入式 OLTP 数据库
+
 ## CSS
 
 * [easy-css-layout](https://github.com/ajycc20/easy-css-layout) Easy css layout
